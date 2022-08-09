@@ -1,0 +1,19 @@
+
+==========
+Answer: 1
+
+0
+1
+happens(changeOOI(laptop,laptop2),1)
+happens(changeLocation(office,desktop),1)
+
+2
++currentLocation(desktop,88)
++oOI(laptop2,1)
+happens(anticipate(laptop2,desktop),2)
+
+3
++intention(work,0)
+currentLocation(desktop,88)
+oOI(laptop2,1)
+P

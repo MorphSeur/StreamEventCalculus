@@ -1,0 +1,25 @@
+
+==========
+Answer: 1
+
+0
+1
+happens(changeLocation(office,desktop),1)
+
+2
++currentLocation(desktop,65)
+happens(ooiChange(chair,sugar),2)
+
+3
+currentLocation(desktop,65)
+happens(ooiChange(chair,sugar),3)
+
+4
+currentLocation(desktop,65)
+
+5
+currentLocation(desktop,65)
+
+6
+currentLocation(desktop,65)
+P

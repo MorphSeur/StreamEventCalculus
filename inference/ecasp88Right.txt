@@ -1,0 +1,19 @@
+
+==========
+Answer: 1
+
+0
+1
+happens(changeOOI(bowl,bowl2),1)
+happens(changeLocation(office,desktop),1)
+
+2
++currentLocation(desktop,88)
++oOI(bowl2,1)
+happens(anticipate(bowl2,desktop),2)
+
+3
++intention(hold,0)
+currentLocation(desktop,88)
+oOI(bowl2,1)
+P

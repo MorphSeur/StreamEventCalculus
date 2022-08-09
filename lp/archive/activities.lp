@@ -1,0 +1,13 @@
+affordance(work).
+affordance(serve).
+affordance(holdFork).
+affordance(mixLiquid).
+affordance(takeSugar).
+affordance(prepareDrink).
+affordance(wash).
+affordance(open).
+affordance(close).
+affordance(season).
+affordance(poor).
+affordance(add).
+affordance(take).
