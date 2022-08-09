@@ -37,7 +37,7 @@ Clingo ASP solver is used to solve the domain formulated on logical programs.
 
 - [./labels](https://github.com/MorphSeur/StreamEventCalculus/tree/master/labels) - contains labels.  
 
-- [OnlineECParser.ipynb](https://github.com/MorphSeur/StreamEventCalculus/tree/master/OnlineECParser.ipynb) - is the parser:  
+- [onlineECParser.ipynb](https://github.com/MorphSeur/StreamEventCalculus/blob/master/onlineECParser.ipynb) - is the parser:  
     -- Read an ONNX trained using YOLO.
     -- Read ConceptNet [numberbatch-en18022022.txt](https://conceptnet.s3.amazonaws.com/downloads/2019/numberbatch/numberbatch-en-19.08.txt.gz).  
     -- Load the domain-dependent axioms and Clingo command.  
